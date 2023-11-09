@@ -43,6 +43,6 @@ function isPangram(string){
 ## Work experience
 I\`ve already worked on one small [project](http://portfolio.bulat.one/) and I think it\`s pretty solid for a first project.
 ## Education
-I still study at school, but I have completed [itstep](https://itstep.org/) main course in Belarus. After that, I`ve been self-studying using docs (such as [MDN](https://developer.mozilla.org/) and others), forums ([Stack Overflow ](https://stackoverflow.com/), [Reddit](https://www.reddit.com/), etc.), and other websites on the internet ([The Modern JavaScript Tutorial](https://javascript.info/), [W3Schools](https://www.w3schools.com/)).
+I'm still studing at school, but I have completed [itstep](https://itstep.org/) main course in Belarus. Since then, I`ve been self-studying using docs (such as [MDN](https://developer.mozilla.org/) and others), forums ([Stack Overflow ](https://stackoverflow.com/), [Reddit](https://www.reddit.com/), etc.), and other websites on the internet ([The Modern JavaScript Tutorial](https://javascript.info/), [W3Schools](https://www.w3schools.com/)).
 ## English level
 According to [this website](https://test-english.com/level-test/) I have B1+ approximate level of grammar in English. But I don't have much experience communicating in English in real life. 
